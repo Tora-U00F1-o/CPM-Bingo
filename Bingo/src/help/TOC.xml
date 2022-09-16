@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Super Bingo" target="introduccion" />
+  <tocitem text="Jugar" >
+      <tocitem text="Introducir Ticket" target="jugar" />
+      <tocitem text="Partida" target="jugar" />
+  </tocitem>
+  <tocitem text="Canjear Regalos" target="canjear" />
+  <tocitem text="Consultar Saldo" target="saldo" />
+  <tocitem text="Guardar Bono" target="guardarBono" />
+  <tocitem text="Opciones de Menu" >
+      <tocitem text="Preferencias" target="menu" />
+      <tocitem text="Acerca de Super Bingo" target="menu" />
+  </tocitem>
+  
+</toc>

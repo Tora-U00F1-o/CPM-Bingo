@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+	<indexitem text="Introducción" target="introduccion" />
+	<indexitem text="Juego" >
+		<indexitem text="Introducir Ticket" target="jugar" />
+		<indexitem text="Jugar Partida" target="jugar" />
+		<indexitem text="Controles Bingo" target="jugar" />
+		<indexitem text="¿Cómo Jugar?" target="jugar" />
+		<indexitem text="Número Mágico" target="jugar" />
+		
+	</indexitem>
+	<indexitem text="Canjear Regalos" >
+		<indexitem text="Mi Puntuación" target="canjear" />
+		<indexitem text="Elegir Regalo" target="canjear" />
+		<indexitem text="Quitar Regalo" target="canjear" />
+	</indexitem>
+	<indexitem text="Consultar Saldo" >
+		<indexitem text="Cómo consultar saldo" target="saldo" />
+		<indexitem text="Ventana Consultar Saldo" target="saldo" />
+		<indexitem text="Problemas con la cuenta" target="saldo" />
+	</indexitem>
+	<indexitem text="Guardar Bono" >
+		<indexitem text="Cómo guardar un bono" target="guardarBono" />
+		<indexitem text="No Estoy Registrado" target="guardarBono" />
+		<indexitem text="Problemas con la cuenta" target="saldo" />
+	</indexitem>
+	<indexitem text="Opciones de Menu" >
+		<indexitem text="Preferencias" target="menu" />
+		<indexitem text="Acerca de Super Bingo" target="menu" />
+	</indexitem>
+
+</index>
