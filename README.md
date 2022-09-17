@@ -3,15 +3,12 @@
 Aplicación desarrollada individualmente para la asignatura Comunicación Persona-Maquina de 2º de grado de UniOvi.
 Mi primer proyecto con ui grafica. Desarrollado en Java con Eclipse + WindowBuilder
 #
-<img src='docs/img/logoMedium.png' alt="banner" width='40%'></img>
-#
-
 ## ¿Qué es?
 Una aplicación para el ficticio centro comercial "El Corte Asturiano".
 Una aplicacion con la que los clientes del establecimiento puedan jugar una partida de bingo. Y canjear los puntos que ganen por premios.
 
 <figure>
-  <img src="docs/img/bingo_play_view.jpg" alt="Play_view" margin  width='70%' style="border:5px solid black"/>
+  <img src="docs/img/bingo_play_view.jpg" alt="Play_view" margin  width='50%' style="border:5px solid black"/>
   <figcaption>Ventana de juego</figcaption>
 </figure>
 
