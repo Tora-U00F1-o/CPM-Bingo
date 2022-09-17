@@ -294,7 +294,7 @@ public class MainWindow extends JFrame {
 	private void setDefaultConfig() {
 		setTitle(localizer.getLocateText("global.title"));
 		player.setVolume(50, 100);
-//		player.playSoundTrack();
+		player.playSoundTrack();
 		localizer.setMode(Localizer.AUTO_MODE);
 		translateAll();
 	}
